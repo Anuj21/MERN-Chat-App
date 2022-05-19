@@ -1,0 +1,16 @@
+{
+  "name": "talk-ative",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.ts",
+  "scripts": {
+    "start": "nodemon backend/server.ts"
+  },
+  "author": "Anuj Joshi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
